@@ -20,7 +20,7 @@
 Tentukan:
 - Persamaan regresi *Y* atas &alpha;
 - Varkov dari &beta;
-- Varians dari *Y*<sup>^</sup> jika *X*<sub>k</sub>
+- Varians dari *Y*<sup>^</sup> jika *X*<sub>k</sub> = 6.5
 
 Berikut ini merupakan penurunan model regresi linear ke dalam bentuk matriks serta penyelesaian terhadap contoh kasus:
 https://github.com/RyanHakim24/2C2220007_Ryan_Tugas3_PML/blob/840758d34d98e4811527228555595951c188064e/Tugas3_RyanFFHakim_PML.pdf
